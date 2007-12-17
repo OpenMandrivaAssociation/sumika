@@ -9,7 +9,6 @@ Group: 		System/Internationalization
 License: GPL
 URL: http://sourceforge.jp/projects/sumika/
 Source0: %{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires: anthy uim
 BuildRequires: gtk+2-devel libgdome-devel
 
