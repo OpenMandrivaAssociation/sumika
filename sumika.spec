@@ -1,5 +1,5 @@
 %define version 0.12
-%define release %mkrel 4
+%define release %mkrel 5
 
 Name:		sumika
 Summary:  A dictionary management tool for Japanese translation engines
