@@ -7,7 +7,7 @@ Version:        %{version}
 Release:        %{release}
 Group: 		System/Internationalization
 License: GPL
-URL: http://sourceforge.jp/projects/sumika/
+URL: https://sourceforge.jp/projects/sumika/
 Source0: %{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires: anthy uim
