@@ -11,6 +11,11 @@ URL: https://sourceforge.jp/projects/sumika/
 Source0: %{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 Requires: anthy uim
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: gtk+2-devel libgdome-devel
 
 %description
